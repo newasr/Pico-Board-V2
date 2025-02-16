@@ -1,2 +1,7 @@
 # Pico-Board-V2
-Better than my previous board
+PICO Board v1 : [Github Link](http://github.com/newasr/Pico-board)
+
+Changes:
+- Resolved DRC and ERC which were there in v1.
+- Added the Raspberry Pi logo for a more authentic look.
+- Standardized component names to be horizontally aligned for a cleaner and more readable design.
